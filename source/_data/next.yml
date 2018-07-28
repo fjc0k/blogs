@@ -1,8 +1,4 @@
 footer:
-  powered:
-    enable: false
-  theme:
-    enable: false
   custom_text: Hosted by <a target="_blank" rel="external nofollow" href="https://pages.coding.me"><b>Coding Pages</b></a><br><a href="http://www.miitbeian.gov.cn" rel="external nofollow" target="_blank">粤ICP备15021488号</a>
 menu:
   #about: /about/ || user

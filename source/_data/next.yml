@@ -88,3 +88,8 @@ custom_file_path:
   head: source/_data/head.swig
   # header: source/_data/header.swig
   # sidebar: source/_data/sidebar.swig
+
+changyan:
+  enable: true
+  appid: cytJUCNew
+  appkey: prod_96a077d8f1201de8bd7a0ce64b766f40

@@ -7,4 +7,4 @@ tags:
 categories: 瞎折腾
 ---
 
-> todo.
+`Hexo` 是一款快速、简洁且高效的静态博客框架。

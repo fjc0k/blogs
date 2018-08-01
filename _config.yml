@@ -81,3 +81,9 @@ deploy:
   type: git
   repo: git@git.coding.net:fjc0k/blogs.git
   branch: master
+
+# sitemap
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml

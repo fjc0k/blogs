@@ -219,7 +219,7 @@ math:
     # For direct link to MathJax.js with CloudFlare CDN (cdnjs.cloudflare.com).
     #cdn: //cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML
     # For automatic detect latest version link to MathJax.js and get from Bootcss.
-    #cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
+    #cdn: //cdnjs.loli.net/ajax/libs/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
 
   # hexo-renderer-markdown-it-plus (or hexo-renderer-markdown-it with markdown-it-katex plugin)
   # needed to full Katex support.
@@ -229,7 +229,7 @@ math:
     # CDNJS, provided by cloudflare, maybe the best CDN, but not works in China
     #cdn: //cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css
     # Bootcss, works great in China, but not so well in other region
-    #cdn: //cdn.bootcss.com/KaTeX/0.7.1/katex.min.css
+    #cdn: //cdnjs.loli.net/ajax/libs/KaTeX/0.7.1/katex.min.css
 ```
 
 ### enable
